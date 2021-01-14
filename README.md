@@ -1,5 +1,7 @@
 [![Neovim](https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png)](https://neovim.io)
 
+Playing around pull requests!
+
 [Documentation](https://neovim.io/doc) |
 [Chat](https://gitter.im/neovim/neovim) |
 [Twitter](https://twitter.com/Neovim)
